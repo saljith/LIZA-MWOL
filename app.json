@@ -4,8 +4,8 @@
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/saljith/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "website":   "https://github.com/saljith/LIZA-MWOL",
+    "success_url": "https://github.com/saljith/LIZA-MWOL",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
